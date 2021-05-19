@@ -1,16 +1,14 @@
 # onguard
 
-A new Flutter project.
+Onguard is a simple mask  detecor app. 
+that runs a simple image classifier model to detect if person is wearing a mask or not.
 
-## Getting Started
+#design 
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://github.com/notthatparker/onguard/blob/master/screenshots/Mask%20Good%20Pass.png)
+![App Screenshot](https://github.com/notthatparker/onguard/blob/master/screenshots/Please%20get%20the%20mask%20up.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
